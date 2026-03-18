@@ -1,0 +1,17 @@
+.app {
+  @apply bg-gray-100;
+}
+
+body, html {
+  @apply font-sans antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold;
+}
+
+.btn {
+  @apply bg-blue-500 text-white px-4 py-2 rounded;
+}
+
+/* Add any other global styles here */
